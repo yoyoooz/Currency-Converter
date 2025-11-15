@@ -3,7 +3,7 @@
 A responsive **Currency Converter App** built using **HTML, CSS, and JavaScript**.  
 Users can convert an amount from one currency to another using live or predefined currency options.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Currency-Converter/)  
 
 ---
 
